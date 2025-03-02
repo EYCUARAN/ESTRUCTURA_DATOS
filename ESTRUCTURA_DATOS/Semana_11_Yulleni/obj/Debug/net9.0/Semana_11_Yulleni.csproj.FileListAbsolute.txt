@@ -1,0 +1,15 @@
+C:\Estefani\Semana_11_Yulleni\bin\Debug\net9.0\Semana_11_Yulleni.exe
+C:\Estefani\Semana_11_Yulleni\bin\Debug\net9.0\Semana_11_Yulleni.deps.json
+C:\Estefani\Semana_11_Yulleni\bin\Debug\net9.0\Semana_11_Yulleni.runtimeconfig.json
+C:\Estefani\Semana_11_Yulleni\bin\Debug\net9.0\Semana_11_Yulleni.dll
+C:\Estefani\Semana_11_Yulleni\bin\Debug\net9.0\Semana_11_Yulleni.pdb
+C:\Estefani\Semana_11_Yulleni\obj\Debug\net9.0\Semana_11_Yulleni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estefani\Semana_11_Yulleni\obj\Debug\net9.0\Semana_11_Yulleni.AssemblyInfoInputs.cache
+C:\Estefani\Semana_11_Yulleni\obj\Debug\net9.0\Semana_11_Yulleni.AssemblyInfo.cs
+C:\Estefani\Semana_11_Yulleni\obj\Debug\net9.0\Semana_11_Yulleni.csproj.CoreCompileInputs.cache
+C:\Estefani\Semana_11_Yulleni\obj\Debug\net9.0\Semana_11_Yulleni.sourcelink.json
+C:\Estefani\Semana_11_Yulleni\obj\Debug\net9.0\Semana_11_Yulleni.dll
+C:\Estefani\Semana_11_Yulleni\obj\Debug\net9.0\refint\Semana_11_Yulleni.dll
+C:\Estefani\Semana_11_Yulleni\obj\Debug\net9.0\Semana_11_Yulleni.pdb
+C:\Estefani\Semana_11_Yulleni\obj\Debug\net9.0\Semana_11_Yulleni.genruntimeconfig.cache
+C:\Estefani\Semana_11_Yulleni\obj\Debug\net9.0\ref\Semana_11_Yulleni.dll
